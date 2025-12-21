@@ -1,3 +1,3 @@
 # Python Coding Contests and Projects Repo
 
-Python Projects I have worked on.
+Python & Go Projects I have worked on.
